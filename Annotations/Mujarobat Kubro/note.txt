@@ -1,0 +1,6 @@
+revise bbox 2-10 so to not overlap too much and fix some maybe mistaken annotation
+for little م head style in the middle of a word ﴾ڮَيمْبَولْ﴿
+
+revise 2-12 for ۑ and پ
+
+revise . and ۔
