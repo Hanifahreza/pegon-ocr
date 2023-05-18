@@ -1,0 +1,6 @@
+[submodule "Annotations/Mujarobat Doa/arab-ocr-synthesizer"]
+	path = Annotations/Mujarobat Doa/arab-ocr-synthesizer
+	url = https://github.com/bltszr/arab-ocr-synthesizer.git
+[submodule "arab-ocr-synthesizer"]
+	path = arab-ocr-synthesizer
+	url = https://github.com/bltszr/arab-ocr-synthesizer.git
