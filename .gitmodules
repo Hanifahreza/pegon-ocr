@@ -7,3 +7,6 @@
 [submodule "ctc-crnn"]
 	path = ctc-crnn
 	url = https://github.com/bltszr/ctc-crnn-pegon-ocr.git
+[submodule "dataset/annotated"]
+	path = dataset/annotated
+	url = https://github.com/bltszr/pegon-annotated-dataset.git
