@@ -4,3 +4,6 @@
 [submodule "arab-ocr-synthesizer"]
 	path = arab-ocr-synthesizer
 	url = https://github.com/bltszr/arab-ocr-synthesizer.git
+[submodule "ctc-crnn"]
+	path = ctc-crnn
+	url = https://github.com/bltszr/ctc-crnn-pegon-ocr.git
