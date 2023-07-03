@@ -28,3 +28,6 @@
 [submodule "yolo-pegon"]
 	path = detection/yolo-pegon
 	url = https://github.com/Hanifahreza/yolo-pegon
+[submodule "recognition/ctc-crnn/ctc-crnn-pegon-ocr"]
+	path = recognition/ctc-crnn/ctc-crnn-pegon-ocr
+	url = https://github.com/bltszr/ctc-crnn-pegon-ocr
