@@ -5,8 +5,26 @@
 	path = arab-ocr-synthesizer
 	url = https://github.com/bltszr/arab-ocr-synthesizer.git
 [submodule "ctc-crnn"]
-	path = ctc-crnn
+	path = recognition/ctc-crnn
 	url = https://github.com/bltszr/ctc-crnn-pegon-ocr.git
 [submodule "dataset/annotated"]
 	path = dataset/annotated
 	url = https://github.com/bltszr/pegon-annotated-dataset.git
+[submodule "masnizah-pegon"]
+	path = recognition/ctc-crnn/masnizah-pegon
+	url = https://github.com/Hanifahreza/masnizah-pegon
+[submodule "Arabic-OCR"]
+	path = recognition/Arabic-OCR
+	url = https://github.com/AndreSeptiano/Arabic-OCR
+[submodule "dclnet-for-pegon-impl"]
+	path = detection/dclnet-for-pegon-impl
+	url = https://github.com/bltszr/dclnet-for-pegon-impl
+[submodule "astar-segmentation-pegon"]
+	path = detection/astar-segmentation-pegon
+	url = https://github.com/Hanifahreza/astar-segmentation-pegon
+[submodule "trocr-pegon"]
+	path = recognition/trocr-pegon
+	url = https://github.com/Hanifahreza/trocr-pegon
+[submodule "yolo-pegon"]
+	path = detection/yolo-pegon
+	url = https://github.com/Hanifahreza/yolo-pegon
